@@ -1,7 +1,9 @@
 body {
     margin: 60px auto;
     width: 75%;
-    background-color: #BEF3F3;
+/*     background-color: #000; */
+/*     background-color: gr; */
+background-image: linear-gradient(to right, #7CE4E4, #f2fcfe);
 }
 nav ul, footer ul {
     font-family:'Arial', 'Sans-Serif';
@@ -46,7 +48,8 @@ h2 {
     font-weight: bold;
     padding: 3px;
     color: #ffffff;
-    background-color:#001D81
+/*     background-color:#1A0445 */
+    background-image: linear-gradient(to right, #559897, #1A0445);
 
 }
 
@@ -85,7 +88,10 @@ address {
 /* The navigation bar */
 .navbar {
   overflow: hidden;
-  background-color: #001D81;
+/*   background-color: #001D81; */
+/*   background-color: #053A17; */
+  background-image: linear-gradient(to left, #559897, #1A0445);
+
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
   width: 75%; /* Full width */
