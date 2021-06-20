@@ -69,3 +69,9 @@ ul.posts li {
   border: 5px solid #000000;
 }
 
+address {
+    font-size: 1.3em;
+    font-family:'Sans-Serif';
+    font-weight: bold;
+}
+
