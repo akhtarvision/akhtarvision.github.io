@@ -1,12 +1,18 @@
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 75%;
+    background-color: lightblue;
 }
 nav ul, footer ul {
     font-family:'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    font-size: 1.3em;
+/*     color: #ffffff; */
+    background-color:#fff
+/*     border-radius: 1px */
+
 }
 nav ul li, footer ul li {
     display: inline;
@@ -22,15 +28,26 @@ a:hover {
 h1 {
     font-size: 2.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    border-bottom: 1px solid #333
 }
 p {
     text-align: justify;
     font-size: 1.3em;
     line-height: 1.2em;
-    color: #333;
+    color: #000000;
 }
+
+h2 {
+/*     font-size: 2.5em; */
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-weight: bold;
+    color: #ffffff;
+    background-color:#001D81
+
+}
+
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid #333;
     font-size: .8em;
 }
 
