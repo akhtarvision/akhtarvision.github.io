@@ -122,3 +122,9 @@ color: #fff;
 .main {
   margin-top: 30px; /* Add a top margin to avoid content overlay */
 }
+
+.anchor{
+      height: 1.5rem;
+    /* padding: 10rem; */
+    display: block;
+}
