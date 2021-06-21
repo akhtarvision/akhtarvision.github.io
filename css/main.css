@@ -1,10 +1,11 @@
 body {
     margin: 60px auto;
-    width: 60rem;
+    width: 63rem;
+    padding: 0 2rem;
 /*     width: 63rem; */
 /*     background-color: #000; */
 /*     background-color: gr; */
-background-image: linear-gradient(to right, #7CE4E4, #f2fcfe);
+    background-image: linear-gradient(to right, #7CE4E4, #f2fcfe);
 }
 nav ul, footer ul {
     font-family:'Arial', 'Sans-Serif';
@@ -95,7 +96,7 @@ address {
   background-image: linear-gradient(to left, #559897, #1A0445);
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
-  width: 60rem; /* Full width */
+  width: 63rem; /* Full width */
 }
 
 /* Links inside the navbar */
