@@ -95,7 +95,6 @@ address {
   background-image: linear-gradient(to left, #559897, #1A0445);
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
-/*   width: 63rem; /* Full width */ */
   width: 70%; /* Full width */
 }
 
