@@ -34,14 +34,14 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    padding-top : 6rem;
+    padding-top : 2rem;
     font-size: 2.4em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     border-bottom: 2px solid #000
 }
 p {
     text-align: justify;
-    font-size: 1.1em;
+    font-size: 1.2em;
     line-height: 1.3em;
     color: #000000;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -51,6 +51,11 @@ li{
   font-size: 1.1em;
 /*   font-family:'Helvetica', 'Arial', 'Sans-Serif'; */
 }
+
+/* span{ */
+/*   color: bisque; */
+/* } */
+
 h2 {
 /*     font-size: 2.5em; */
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -88,6 +93,7 @@ address {
     font-family: 'Courier New', 'Lucida Console' , 'Monaco';
     font-weight: bold;
     font-style: normal;
+/*     color: bisque; */
 }
 
 .social{
