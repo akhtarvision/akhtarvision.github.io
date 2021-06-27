@@ -90,7 +90,9 @@ ul.posts li {
 address {
     font-size: 1.3em;
 /*     font-family: 'Helvetica', 'Arial', 'Sans-Serif'; */
-    font-family: 'Courier New', 'Lucida Console' , 'Monaco';
+/*     font-family: 'Courier New', 'Lucida Console' , 'Monaco'; */
+    font-family: 'CMU Sans Serif', 'Lucida Console' , 'Monaco';
+
     font-weight: bold;
     font-style: normal;
 /*     color: bisque; */
