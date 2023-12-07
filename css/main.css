@@ -5,7 +5,8 @@ body {
     /*     width: 63rem; */
     /*     background-color: #000; */
     /*     background-color: gr; */
-    background-image: linear-gradient(to right, #A4F2F1, #f2fcfe);
+/*     background-image: linear-gradient(to right, #A4F2F1, #f2fcfe); */
+    background-image: #fcf8f7;
 }
 nav ul, footer ul {
     font-family:'Arial', 'Sans-Serif';
